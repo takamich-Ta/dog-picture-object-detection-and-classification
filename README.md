@@ -1,1 +1,1 @@
-# dog-picture-object-detection-and-classification
+details: http://person.hatenablog.jp/entry/2019/11/02/201053
